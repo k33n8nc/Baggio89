@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Baggio89
+- 👋 Hi, I’m Robbert
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning Laravel and Nuxt
+- 🌱 I’m currently learning Javascript
 - 📫 Reach me via contact@robbertstapel.nl
 
 <!---
